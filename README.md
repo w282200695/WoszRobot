@@ -1,2 +1,3 @@
 # Bing_background_Robot
 Bing_background_Robot
+随手用Py做来抓取bing每天更新的背景。
