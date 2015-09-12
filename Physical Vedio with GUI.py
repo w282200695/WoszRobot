@@ -1,3 +1,6 @@
+# 2015-09-13 01:09:14 update
+# designer：wosz
+# BUG：update UI from another thread ( method : signal and slot )
 # -*- coding: UTF-8 -*-
 import sys
 import re
