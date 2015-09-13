@@ -10,5 +10,6 @@ Robot2.py抓EN的<br>
 ##Physical Vedio
 用来下载广东工业大学物理实验视频，以解决Win7以上系统无法播放实验视频的问题<br>
 测试url：http://222.200.98.186:8088/FileUpload/demo/旋光性溶液浓度的测量/实验演示.htm <br>
-一个是用pyqt写了应用的GUI并且使用了多线程下载<br>
-另一个是最初的一版<br>
+physical_vedio.py是最初的一版<br>
+Physical Vedio with GUI.py 是用pyqt写了应用的GUI并且使用了多线程下载,对最初版进行了重构<br>
+
