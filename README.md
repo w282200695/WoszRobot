@@ -13,3 +13,5 @@ Robot2.py抓EN的<br>
 physical_vedio.py是最初的一版<br>
 Physical Vedio with GUI.py 是用pyqt写了应用的GUI并且使用了多线程下载,对最初版进行了重构<br>
 
+##GDUTMOOC
+写来挂广东工业大学的mooc用的<br>
