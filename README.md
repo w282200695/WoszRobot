@@ -15,3 +15,7 @@ Physical Vedio with GUI.py 是用pyqt写了应用的GUI并且使用了多线程�
 
 ##GDUTMOOC
 写来挂广东工业大学的mooc用的<br>
+
+##GeswisToolGui
+工作信息管理系统登陆不用验证码<br>
+就写了个枚举的工具（看师妹）<br>
